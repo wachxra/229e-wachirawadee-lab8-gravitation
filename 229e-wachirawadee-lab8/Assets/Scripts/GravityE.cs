@@ -7,16 +7,26 @@ public class GravityE : MonoBehaviour
     const float G = 0.006674f;
     public static List<GravityE> gravityObjectList;
 
+    // orbit
+    /*[SerializeField] bool planets = false;
+    [SerializeField] int orbitSpeed = 1000;*/
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
 
-        if (gravityObjectList == null )
+        if (gravityObjectList == null)
         {
             gravityObjectList = new List<GravityE>();
         }
 
         gravityObjectList.Add(this);
+
+        // orbiting before attract()
+        /*if (!planets)
+        {
+            rb.AddForce(Vector3.left * orbitSpeed);
+        }*/
     }
 
     private void FixedUpdate()
@@ -33,7 +43,7 @@ public class GravityE : MonoBehaviour
     void Attract(GravityE other)
     {
         Rigidbody otherRb = other.rb;
-        
+
         // find distance between 2 objects
         Vector3 direction = rb.position - otherRb.position;
         float distanceR = direction.magnitude;
