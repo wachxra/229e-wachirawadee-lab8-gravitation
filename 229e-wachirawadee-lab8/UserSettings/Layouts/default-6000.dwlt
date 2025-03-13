@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -39,9 +39,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 635
+    x: 473
     y: 0
-    width: 833
+    width: 619
     height: 404
   m_MinSize: {x: 102, y: 126}
   m_MaxSize: {x: 4002, y: 4026}
@@ -69,12 +69,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 529
-    width: 1468
+    width: 1092
     height: 404
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 76
+  controlID: 79
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -93,7 +93,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 635
+    width: 473
     height: 404
   m_MinSize: {x: 102, y: 126}
   m_MaxSize: {x: 4002, y: 4026}
@@ -121,12 +121,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 352
     y: 0
-    width: 1468
+    width: 1092
     height: 933
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 67
+  controlID: 70
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -145,7 +145,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1468
+    width: 1092
     height: 529
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -169,9 +169,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1820
+    x: 1444
     y: 0
-    width: 100
+    width: 476
     height: 933
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 66
+  controlID: 69
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 37
+  controlID: 17
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -379,7 +379,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 352
     y: 608
-    width: 633
+    width: 471
     height: 378
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -434,10 +434,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 633
+      width: 471
       height: 357
-    m_Scale: {x: 0.16484375, y: 0.16484375}
-    m_Translation: {x: 316.5, y: 178.5}
+    m_Scale: {x: 0.12265625, y: 0.12265625}
+    m_Translation: {x: 235.5, y: 178.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -445,12 +445,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -1920
-      y: -1082.8436
+      y: -1455.2866
       width: 3840
-      height: 2165.6873
+      height: 2910.5732
     m_MinimalGUI: 1
-  m_defaultScale: 0.16484375
-  m_LastWindowPixelSize: {x: 633, y: 378}
+  m_defaultScale: 0.12265625
+  m_LastWindowPixelSize: {x: 471, y: 378}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -478,9 +478,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 987
+    x: 825
     y: 608
-    width: 831
+    width: 617
     height: 378
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -534,7 +534,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 26e5ffff16e6ffff26fbffff
+      m_ExpandedIDs: 46abffffe6bcffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -606,7 +606,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Planets of the Solar System 3D/Materials
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -617,14 +617,14 @@ MonoBehaviour:
   m_StartGridSize: 35
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Work\204\229e-wachirawadee-lab8-gravitation\229e-wachirawadee-lab8
+  m_LastProjectPath: D:\1660704022\229e-wachirawadee-lab8-gravitation\229e-wachirawadee-lab8
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 78}
     m_SelectedIDs: 56620000
     m_LastClickedID: 25174
-    m_ExpandedIDs: 00000000767f0000
+    m_ExpandedIDs: 00000000e88d0000ea8d0000ec8d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -653,7 +653,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000767f000010830000b4880000
+    m_ExpandedIDs: ffffffff00000000e88d0000ea8d0000ec8d00005e8e00006c8e00000a900000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,9 +732,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1820
+    x: 1444
     y: 79
-    width: 99
+    width: 475
     height: 907
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 352
     y: 79
-    width: 1466
+    width: 1090
     height: 503
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1283,9 +1283,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.5516653, y: 6.584767, z: -2.1524296}
+    m_Target: {x: -1.8935432, y: 4.712009, z: -0.24524736}
     speed: 2
-    m_Value: {x: -0.5516653, y: 6.584767, z: -2.1524296}
+    m_Value: {x: -1.8935432, y: 4.712009, z: -0.24524736}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1331,13 +1331,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.020402605, y: 0.93287545, z: -0.053521402, w: -0.35561636}
+    m_Target: {x: -0.06578116, y: 0.9027875, z: -0.14922254, w: -0.39797303}
     speed: 2
-    m_Value: {x: -0.021018362, y: 0.93225956, z: -0.054889183, w: -0.35698414}
+    m_Value: {x: -0.06555719, y: 0.9033825, z: -0.14932089, w: -0.39661798}
   m_Size:
-    m_Target: 10
+    m_Target: 4.1668983
     speed: 2
-    m_Value: 10
+    m_Value: 3.9874625
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1366,8 +1366,5 @@ MonoBehaviour:
   m_ReplacementString: 
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
-  m_LastDebugDrawMode:
-    drawMode: 35
-    name: 
-    section: 
+  m_LastDebugDrawMode: 35
   m_ViewIsLockedToObject: 0
