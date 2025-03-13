@@ -404,6 +404,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs"
+"Assets/Scripts/Gravity.cs"
 "Assets/SpaceSkies Free/Demo/Scripts/LookCamera.cs"
 "Assets/SpaceSkies Free/Demo/Scripts/SkyboxChanger.cs"
 -langversion:9.0
